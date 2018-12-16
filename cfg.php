@@ -2,19 +2,19 @@
 //ikuti format config di bawah "ticket=tiket_kamu&meid=meid_kamu",
 //jangan ada sepasi
 $config = [
-"ticket=sHp2r312otmCpnGns3mCqJhovNiBh4jNsLqja7Softu8jYeliYanyo-miaiziHmrho233X96i5ewun6lwM6Clq2jra6KZM3XjZSKo7-Ik2ubfrCUi4RzoQ&meid=e56d854f91038cd8",
-"ticket=sHp2r312otmCpnGns3mCqJhovNiBh3fdrr2KpbOTh8uyeoawfayqko_PfWO_q5iahKO7l36dod6wuoGys7WVy62jra6KZM3XjZSKo7-Ik2ubfrCUi4RzoQ&meid=94246e0c26a2bc60",
-"ticket=sHp2r312otmCpnGns3mCqJhovNiBin_err2NsrPbf869in6yiZ-vy4LMdWO_noFmkIrS0IqKh9uvvY6kwM6DzK2jra6KZM3XjZSKo7-Ik2ubfrCUi4RzoQ&meid=94246e0c4d64c32a",
-"ticket=sHp2r312otmCpnGns3mCqJhovNiBiouYr9CRbcDLctywsIptip-7zI_PepjAdXKdhY23lH-He5e7up-xv8uGk62jra6KZM3XjZSKo7-Ik2ubfrCUi4RzoQ&meid=94246e0c4f1a1f83",
-"ticket=sHp2r312otmCpnGns3mCqJhovNiBh4zPuuCfssC1hpOyioeif3mvzYS2iWKzhZushKCzloCHe5a6upuxwLWU3K2jra6KZM3XjZSKo7-Ik2ubfrCUi4RzoQ&meid=94246e0c50e7620d",
-"ticket=sHp2r312otmCpnGns3mCqJhovNiBiouYruCFbL_Odpewin6xf4ayk4PPhWXAhXWshn2_2ouKkNCumIFotNuDy62jra6KZM3XjZSKo7-Ik2ubfrCUi4RzoQ&meid=a9b4e64a664415b",
-"ticket=sHp2r312otmCpnGns3mCqJhovNiBh4Per9CfsrTLc8q9io-lfYbFzIOmhWK1dZNnkKC3lYqdg5mwqolttMuc2q2jra6KZM3XjZSKo7-Ik2ubfrCUi4RzoQ&meid=f32414793d2ee41a",
-"ticket=sHp2r312otmCpnGns3mCqJhovNiBh4jOr-CjbbPLe8q8o3uifayqko_Mk6e0m3KdkaDJlH6Kh5iu4HlrtLh7yq2jra6KZM3XjZSKo7-Ik2ubfrCUi4RzoQ&meid=2eeb5fdfa96a34f9",
-"ticket=sHp2r312otmCpnGns3mCqJhovNiBioPdr9OKosC1etmwjYpoiom6loLcgWTAdXackKCo0H56h5Su031os6WHzK2jra6KZM3XjZSKo7-Ik2ubfrCUi4RzoQ&meid=f8ad132fc4677bf4",
-"ticket=sHp2r312otmCpnGns3mCqJhovNiBh4fcu6p6oLSTh8q9eoukfnm6lY7cgWCzhYKfhLC3lYt3f5ewvYFps85_zK2jra6KZM3XjZSKo7-Ik2ubfrCUi4RzoQ&meid=4e7c6de0d14fe152",
-"ticket=sHp2r312otmCpnGns3mCqJhovNiBh3jPuuB9sLS1etq8sHZrfom6lYSmgp21hYqckYq4zYuHms6wup-vs6WCl62jra6KZM3XjZSKo7-Ik2ubfrCUi4RzoQ&meid=e10573f372288dcf",
-"ticket=sHp2r312otmCpnGns3mCqJhovNiBh3_br9OFr7W4f8-9oJ2lfYa7zY6Ufpq_nompkXrJl39lgNG7qqCgtbWG3K2jra6KZM3XjZSKo7-Ik2ubfrCUi4RzoQ&meid=ef80c4c368c0def7",
-"ticket=sHp2r312otmCpnGns3mCqJhovNiBh6Her7p-pLSTitu9oH-kiYamko7ccpuzm3WrkYrAz36dmZevmIaiwM6C2q2jra6KZM3XjZSKo7-Ik2ubfrCUi4RzoQ&meid=3043cd2da57f00af",
-  ];
+  
+"ticket=ticket di sini &meid=meid di sini",
+"ticket=ticket di sini &meid=meid di sini",
+"ticket=ticket di sini &meid=meid di sini",
+"ticket=ticket di sini &meid=meid di sini",
+"ticket=ticket di sini &meid=meid di sini",
+"ticket=ticket di sini &meid=meid di sini",
+"ticket=ticket di sini &meid=meid di sini",
+"ticket=ticket di sini &meid=meid di sini",
+"ticket=ticket di sini &meid=meid di sini",
+"ticket=ticket di sini &meid=meid di sini",
+"ticket=ticket di sini &meid=meid di sini",
+"ticket=ticket di sini &meid=meid di sini",
+];
 
 ?>
